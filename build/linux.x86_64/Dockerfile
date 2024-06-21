@@ -1,4 +1,4 @@
-FROM alpine:3.16
+FROM alpine:3.17
 # alpine:3.16 (GHC 9.0.1):  5.8 megabytes
 # alpine:3.17 (GHC 9.0.2): 15.0 megabytes
 # alpine:3.18 (GHC 9.4.4): 29.0 megabytes
